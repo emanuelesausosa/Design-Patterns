@@ -1,2 +1,2 @@
 # Design-Patterns
-a set of desiagn patterns practices in c#
+a set of design patterns practices in c# and java
