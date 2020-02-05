@@ -14,5 +14,9 @@ public class Main {
 	 var shapeOne = factoryA.getShape(ShapeTypes.ROUNDED_RECTANGLE);
 	 shapeOne.draw();
 
+	 /*test factory B*/
+		var shapeTwo = factoryB.getShape(ShapeTypes.SQUARE);
+		shapeTwo.draw();
+
     }
 }
